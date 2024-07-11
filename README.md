@@ -36,7 +36,7 @@ The Django Polls App is a web application designed to facilitate the creation, m
 1. **Clone the repository:**
 
    ```bash
-   git clone <repo-url>
+   git clone (https://github.com/ahmeddelattarr/PollsApp_django/tree/main)
    cd PollsApp_withDjango
    ```
 
