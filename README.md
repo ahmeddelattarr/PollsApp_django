@@ -1,9 +1,10 @@
 
 
-```markdown
+
 # Django Polls App
 
 ![Home Image](./screenshots/home.png)
+in the home page or index as in code you will find the newest five polls 
 
 ## Description
 
@@ -26,7 +27,7 @@ The Django Polls App is a web application designed to facilitate the creation, m
 
 ![choices 1](./screenshots/choices.png)
 
-![results 2](./screenshots/results.png)
+![results 2](./screenshots/result.png)
 
 
 
