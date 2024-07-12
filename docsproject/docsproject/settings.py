@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-lj2a_mytzzlw!lae@+3yikj08(@-)z-bny%q$cmpb05q(s81=u
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['polls-app-django-1stke12gc-ahmeddelattarrs-projects.vercel.app']
+ALLOWED_HOSTS = ['.vercel.app']
 
 
 # Application definition
