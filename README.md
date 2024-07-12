@@ -79,14 +79,3 @@ The Django Polls App is a web application designed to facilitate the creation, m
 
 Contributions are welcome! If you want to contribute to this project, please fork the repository and create a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
-```
-
-### Notes:
-- Replace `<repo-url>` with the actual URL of your repository.
-- Update the paths for the project image (`./docs/project-image.png`) and screenshots (`./docs/Screenshot%20(45).png`, `./docs/Screenshot%20(46).png`, `./docs/Screenshot%20(47).png`) to match the actual relative paths to these images within your `PollsApp_withDjango` repository.
-
-This README file provides a comprehensive overview of your Django Polls app, including its features, installation instructions, screenshots, usage guidelines, contribution guidelines, and licensing information. Adjust the content and paths according to your specific project setup and preferences.
